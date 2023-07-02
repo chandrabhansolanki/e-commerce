@@ -5,6 +5,7 @@ import {Link} from "react-router-dom"
 import "./Cart.css";
 
 const Cart = () => {
+  //cart data
   const [totalAmount, setTotalAmount] = useState(0);
   const cart = useSelector((state) => state?.resumeReducer?.cart);
   useEffect(() => {
