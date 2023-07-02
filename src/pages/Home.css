@@ -1,0 +1,9 @@
+.product-main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    min-height: 80vh;
+    max-width: 72rem;
+    margin: auto;
+}

@@ -1,0 +1,34 @@
+.navbarContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+  max-width: 72rem;
+  margin-left: auto;
+  margin-right: auto;
+  /* background-color: red; */
+}
+.navbarContainer a {
+  text-decoration: none;
+}
+.title {
+  margin-left: 20px;
+}
+.title h1 {
+  font-size: 30px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.cartContainer {
+  display: flex;
+  /* background-color: blue; */
+  font-weight: 600;
+  margin-right: 20px;
+  list-style-type: none;
+}
+
+.cartContainer a {
+  margin-left: 1.5rem;
+  padding-top: 0.25rem;
+}

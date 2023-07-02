@@ -1,0 +1,1 @@
+export const bags = '../assets/bags.jpg' 
