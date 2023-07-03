@@ -1,6 +1,3 @@
-import {bags} from './images/images'
-
-
 export const products = [
   {
     id: 1,
@@ -9,7 +6,8 @@ export const products = [
     description:
       "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
     category: "men's clothing",
-    image: "https://images.pexels.com/photos/2081199/pexels-photo-2081199.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image:
+      "https://images.pexels.com/photos/2081199/pexels-photo-2081199.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     rating: {
       rate: 3.9,
       count: 120,
@@ -32,11 +30,12 @@ export const products = [
   {
     id: 3,
     title: "Mens Cotton Jacket",
-    price:  1000,
+    price: 1000,
     description:
       "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
     category: "men's clothing",
-    image: "https://images.pexels.com/photos/6213709/pexels-photo-6213709.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image:
+      "https://images.pexels.com/photos/6213709/pexels-photo-6213709.jpeg?auto=compress&cs=tinysrgb&w=400",
     rating: {
       rate: 4.7,
       count: 500,
@@ -76,7 +75,8 @@ export const products = [
     description:
       "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
     category: "jewelery",
-    image: "https://images.pexels.com/photos/1395306/pexels-photo-1395306.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image:
+      "https://images.pexels.com/photos/1395306/pexels-photo-1395306.jpeg?auto=compress&cs=tinysrgb&w=400",
     rating: {
       rate: 3.9,
       count: 70,
@@ -102,7 +102,8 @@ export const products = [
     description:
       "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
     category: "jewelery",
-    image: "https://images.pexels.com/photos/1199605/pexels-photo-1199605.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image:
+      "https://images.pexels.com/photos/1199605/pexels-photo-1199605.jpeg?auto=compress&cs=tinysrgb&w=400",
     rating: {
       rate: 1.9,
       count: 100,
@@ -115,7 +116,8 @@ export const products = [
     description:
       "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
     category: "electronics",
-    image: "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image:
+      "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=400",
     rating: {
       rate: 3.3,
       count: 203,
@@ -156,7 +158,8 @@ export const products = [
     description:
       "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
     category: "electronics",
-    image: "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image:
+      "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=400",
     rating: {
       rate: 4.8,
       count: 400,
@@ -183,7 +186,8 @@ export const products = [
     description:
       "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
     category: "electronics",
-    image: "https://images.pexels.com/photos/577769/pexels-photo-577769.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image:
+      "https://images.pexels.com/photos/577769/pexels-photo-577769.jpeg?auto=compress&cs=tinysrgb&w=400",
     rating: {
       rate: 2.2,
       count: 140,
@@ -196,7 +200,8 @@ export const products = [
     description:
       "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
     category: "women's clothing",
-    image: "https://images.pexels.com/photos/16600958/pexels-photo-16600958/free-photo-of-portrait-of-a-woman-wearing-a-dress.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image:
+      "https://images.pexels.com/photos/16600958/pexels-photo-16600958/free-photo-of-portrait-of-a-woman-wearing-a-dress.jpeg?auto=compress&cs=tinysrgb&w=400",
     rating: {
       rate: 2.6,
       count: 235,
@@ -223,7 +228,8 @@ export const products = [
     description:
       "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
     category: "women's clothing",
-    image: "https://images.pexels.com/photos/16612605/pexels-photo-16612605/free-photo-of-studio-shot-of-a-young-brunette-in-an-elegant-dress.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image:
+      "https://images.pexels.com/photos/16612605/pexels-photo-16612605/free-photo-of-studio-shot-of-a-young-brunette-in-an-elegant-dress.jpeg?auto=compress&cs=tinysrgb&w=400",
     rating: {
       rate: 3.8,
       count: 679,
@@ -236,7 +242,8 @@ export const products = [
     description:
       "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
     category: "women's clothing",
-    image: "https://images.pexels.com/photos/16612728/pexels-photo-16612728/free-photo-of-woman-in-traditional-glamour-dress-and-long-veil.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image:
+      "https://images.pexels.com/photos/16612728/pexels-photo-16612728/free-photo-of-woman-in-traditional-glamour-dress-and-long-veil.jpeg?auto=compress&cs=tinysrgb&w=400",
     rating: {
       rate: 4.7,
       count: 130,
@@ -262,7 +269,8 @@ export const products = [
     description:
       "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
     category: "women's clothing",
-    image: "https://images.pexels.com/photos/16662096/pexels-photo-16662096/free-photo-of-young-brunette-wearing-a-long-dress.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image:
+      "https://images.pexels.com/photos/16662096/pexels-photo-16662096/free-photo-of-young-brunette-wearing-a-long-dress.jpeg?auto=compress&cs=tinysrgb&w=400",
     rating: {
       rate: 3.6,
       count: 145,
